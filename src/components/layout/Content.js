@@ -1,5 +1,8 @@
 import React from 'react';
+import { Sidebar } from './Sidebar';
 
-export const Content = () => {
-    
-}
+export const Content = () => (
+    <section>
+        <Sidebar />
+    </section>
+)
