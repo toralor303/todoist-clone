@@ -12,7 +12,7 @@ export const Header = () => {
             <div className='settings'>
                 <ul>
                     <li>+</li>
-                    <FaPizzaSlice />
+                    <li><FaPizzaSlice /></li>
                 </ul>
             </div>
         </nav>
